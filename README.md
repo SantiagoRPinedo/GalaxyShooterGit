@@ -1,6 +1,6 @@
 # 🎮 Galaxy Shooter
 
-(![image](https://github.com/user-attachments/assets/cdf1e95a-2254-40b8-8c2f-8abf933069b7)
+![image](https://github.com/user-attachments/assets/cdf1e95a-2254-40b8-8c2f-8abf933069b7)
 
 ### Resumen del Proyecto
 > Videojuego 2D de disparos espaciales con mecánicas clásicas, desarrollado en Unity.
